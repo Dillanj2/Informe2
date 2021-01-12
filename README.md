@@ -63,6 +63,13 @@ El instalador se puede obtener en el siguiente enlace:
   <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20para%20el%20circuito%20del%20diagrama%203.1.png">
 </p>
 
+<p align="center">
+  Tabla 5.2: Tabla de errores.
+</p>
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Tabla%20de%20errores.png">
+</p>
+
 El procedimiento lo puede observar entrando al siguiente enlace:
 
 <p><a href="https://github.com/Dillanj2/Informe2/blob/main/C%C3%B3digo%20Fuente/Procedimiento_de_Laboratorio_2.pdf">Procedimiento</a>
