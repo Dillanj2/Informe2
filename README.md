@@ -4,33 +4,17 @@
 
 Generales
 
-* Analizar el circuito resistivo mixto y justificar el uso de las leyes de Kirchhoff para los diferentes calculos. 
+* Analizar el circuito  y justificar el uso de la teoría del análisis de mallas para los diferentes cálculos. 
 
 Especificos
 
-* Demostrar la Ley de Kirchhoff  y revisar los valores medidos con los valores teóricos mediante el uso de simuladores. 
+* Demostrar la funcionalidad del análisis de mallas y revisar los valores medidos con los valores teóricos mediante el uso de simuladores. 
 * Explicar los datos obtenidos en las tablas, mediante las formulas establecidas.
-* Practicar el uso de la Ley de Ohm, al igual que las formulas de la Ley de Kirchhof.
+* Practicar la resolucion de ejercicios usando el análisis de mallas.
 
 2. MARCO TEÓRICO 
 
-Leyes de Kirchhoff
 
-Para tratar circuitos complicados, se usan las reglas de Kirchhoff, establecidas por G. R. Kirchhoff (1824-1887) a mediados del siglo XIX. Son dos reglas y simplemente son aplicaciones convenientes de las leyes de conservación de la carga y la energía.
-
-La primera regla de Kirchhoff, o regla de los nodos, se basa en la conservación de la carga eléctrica que ya se usó al deducir la regla para resistores en paralelo. Esa regla afirma que en cualquier punto de unión, la suma de todas las corrientes que entran al nodo debe ser igual a la suma de todas las corrientes que salen del nodo.
-
-∑Iadentro=∑Iafuera
-
-La segunda regla de Kirchhoff o Ley de voltaje de Kirchhoff nos dice que la suma de los voltajes alrededor de una malla es igual a cero.
-
-∑Vsubida=∑Vbajada
-
-La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
-
-* Puedes trazar una malla que comience en cualquier nodo. Si caminas alrededor de la malla y terminas en el nodo inicial, la suma de los voltajes de la malla es igual a cero.
-* Puedes recorrer la malla en cualquier dirección y la ley de voltaje de Kirchhoff conserva su validez.
-* Si un circuito tiene múltiples mallas, la ley de voltaje de Kirchhoff es válida para cada una.
 
 3. DIAGRAMAS
 
@@ -54,36 +38,25 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 5. PROCEDIMIENTO
 
-5.1 Arme el circuito que se muestra en el Diagrama 3.1.
+5.1 Implemente el circuitoque se representa en el diagrama 3.1.
 
-5.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 5.1.
+5.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla 5.1.
+
+5.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito del diagram 3.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 5.1.
+
+Usamos el software LTspice para la simulacion del circuito. .
+El instalador se puede obtener en el siguiente enlace:
+
+<p><a href="https://github.com/Dillanj2/Informe2/blob/main/Instaladores/LTspice">LInstalador LTspice</a>
+
+5.4 Compare los valores del diagrama 3.1 y realice sus conclusiones.
 
 <p align="center">
-  Tabla 5.1: Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+  Tabla 5.1: Resultados obtenidos para el circuito del diagrama 3.1.
 </p>
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20de%20voltaje%20y%20corriente%2C%20en%20cada%20elemento%20del%20circuito..jpeg">
 </p>
-
-5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 5.2.
-
-<p align="center">
-  Tabla 5.2: Verificación de la LVK.
-</p>
-<p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Verificaci%C3%B3n%20de%20la%20LVK..jpeg">
-</p>
-
-5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 5.3.
-
-<p align="center">
-  Tabla 5.3: Verificación de la LCK.
-</p>
-<p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Verificaci%C3%B3n%20de%20la%20LCK..jpeg">
-</p>
-
-5.5 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 El procedimiento lo puede observar entrando al siguiente enlace:
 
@@ -106,22 +79,36 @@ Giancoli. D. C., (2008). Física  para  ciencias  e  ingenierıa, Pearson.
 9. ANEXOS
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20LTspice.jpeg">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Corriente%201.jpeg">
 </p>
 <p align="center">
-  Figura 9.1: Circuito en LTspice
+  Figura 9.1: Medición de la corriente 1 en LTspice.
 </p
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20Tinkercad1.jpeg">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Corriente%202.jpeg">
 </p>
 <p align="center">
-  Figura 9.2: Circuito en Tinkercad1
+  Figura 9.2: Medición de la corriente 2 en LTspice.
 </p
 
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Corriente%203.jpeg">
+</p>
+<p align="center">
+  Figura 9.3: Medición de la corriente 3 en LTspice.
+</p
+  
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20Tinkercad2.jpeg">
 </p>
 <p align="center">
-  Figura 9.3: Circuito en Tinkercad2
+  Figura 9.4: Circuito para el análisis de mallas en Tinkercad
+</p
+
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Circuito%20para%20el%20an%C3%A1lisis%20de%20mallas%20medici%C3%B3n.png">
+</p>
+<p align="center">
+  Figura 9.5: Medición de corrientes en Tinkercad.
 </p
