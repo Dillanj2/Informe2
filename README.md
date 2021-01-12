@@ -38,16 +38,17 @@ Especificos
 
 5. PROCEDIMIENTO
 
-5.1 Implemente el circuitoque se representa en el diagrama 3.1.
+5.1 Implemente el circuito que se representa en el diagrama 3.1.
 
 5.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla 5.1.
 
 5.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito del diagram 3.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 5.1.
 
-Usamos el software LTspice para la simulacion del circuito. .
+Usamos el software LTspice para la simulacion del circuito.
+
 El instalador se puede obtener en el siguiente enlace:
 
-<p><a href="https://github.com/Dillanj2/Informe2/blob/main/Instaladores/LTspice">LInstalador LTspice</a>
+<p><a href="https://github.com/Dillanj2/Informe2/blob/main/Instaladores/LTspice">Instalador LTspice</a>
 
 5.4 Compare los valores del diagrama 3.1 y realice sus conclusiones.
 
@@ -69,9 +70,8 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 
 7. CONCLUSIONES
 
-* La leyes de Kirchhoff nos ayudan en el analisis de circuitos eléctricos, como el empleado en la practica, lo cual hace que sea un método muy utilizado en el análisis de valor de voltaje o corriente.
-* Los valores medidos no se alteran mucho a los valores teóricos, por lo cual nuestro valor de error en la practica no es tan alto.
-
+* 
+* 
 8. BIBLIOGRAFÍA
 
 Giancoli. D. C., (2008). Física  para  ciencias  e  ingenierıa, Pearson. 
