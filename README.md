@@ -55,7 +55,7 @@ El instalador se puede obtener en el siguiente enlace:
   Tabla 5.1: Resultados obtenidos para el circuito del diagrama 3.1.
 </p>
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20de%20voltaje%20y%20corriente%2C%20en%20cada%20elemento%20del%20circuito..jpeg">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20para%20el%20circuito%20del%20diagrama%203.1.png">
 </p>
 
 El procedimiento lo puede observar entrando al siguiente enlace:
@@ -100,7 +100,7 @@ Giancoli. D. C., (2008). Física  para  ciencias  e  ingenierıa, Pearson.
 </p
   
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20Tinkercad2.jpeg">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Circuito%20para%20el%20an%C3%A1lisis%20de%20mallas%20Tinkercad.png">
 </p>
 <p align="center">
   Figura 9.4: Circuito para el análisis de mallas en Tinkercad
