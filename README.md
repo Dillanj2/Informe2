@@ -14,7 +14,11 @@ Especificos
 
 2. MARCO TEÓRICO 
 
+El análisis de mallas es un método bien organizado para resolver circuitos. Al igual que en cualquier análisis de circuito, tenemos que resolver un sistema de ecuaciones depediendo de las mallas que tengamos propiamente en el circuito. El método de la corriente de malla facilita el análisis, y produce un número relativamente pequeño de ecuaciones a resolver. 
 
+El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff visto anteriormente. 
+
+El método de la corriente de malla utiliza dos términos especiales: lazo y malla. Un lazo es cualquier trayectoria cerrada alrededor de un circuito mientras que una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos. En el método de la corriente de malla, usamos las mallas de un circuito para generar las ecuaciones LVK.
 
 3. DIAGRAMAS
 
@@ -70,8 +74,8 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 
 7. CONCLUSIONES
 
-* 
-* 
+* El análisis de mallas nos permite, como cualquier análisis, hacer la resolución mas fácil al momento de trabajar con circuitos con numerosas mallas.
+* Para emplear este análisis debemos conocer la ley de voltaje de Kirchhoff, ya que esta se basa en aquella ley. 
 8. BIBLIOGRAFÍA
 
 Giancoli. D. C., (2008). Física  para  ciencias  e  ingenierıa, Pearson. 
