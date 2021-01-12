@@ -1,4 +1,4 @@
-# LEYES DE KIRCHHOFF
+# ANÁLISIS DE MALLAS
 
 1. OBJETIVOS
 
@@ -35,20 +35,21 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 3. DIAGRAMAS
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20Resistivo%20Mixto.png">
+  <img src="https://github.com/Dillanj2/Informe2/blob/main/Im%C3%A1genes/Circuito%20para%20el%20an%C3%A1lisis%20de%20mallas.png">
 </p>
 <p align="center">
-  Diagrama 3.1: Circuito Resistivo Mixto
+  Diagrama 3.1: Circuito para el análisis de mallas
 </p>
 
 4. LISTA DE COMPONENTES
 
 * 1 Fuente de Voltaje de C.D.
-* 2 Multimetros Digitales.
+* 1 Multimetros Digitales.
+* 1 Resistor de 820Ω
+* 1 Resistor de 390Ω
 * 1 Resistor de 1kΩ
-* 2 Resistores de 2.2kΩ
-* 1 Resistor de 1.8kΩ
-* 1 Resistor de 3.9kΩ
+* 1 Resistor de 1.2kΩ
+* 1 Resistor de 2.2kΩ
 * 1 Protoboard
 
 5. PROCEDIMIENTO
