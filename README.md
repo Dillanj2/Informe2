@@ -78,7 +78,7 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 * Para emplear este análisis debemos conocer la ley de voltaje de Kirchhoff, ya que esta se basa en aquella ley. 
 8. BIBLIOGRAFÍA
 
-Giancoli. D. C., (2008). Física  para  ciencias  e  ingenierıa, Pearson. 
+McAllister, W. (S/F). El método de la corriente de malla. Khan Academy. Obtenido de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 
 9. ANEXOS
 
