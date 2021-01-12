@@ -61,7 +61,7 @@ El instalador se puede obtener en el siguiente enlace:
 
 El procedimiento lo puede observar entrando al siguiente enlace:
 
-<p><a href="https://github.com/Dillanj2/Informe1/blob/main/C%C3%B3digo%20Fuente/Procedimiento_de_Laboratorio.pdf" target="_blank">Procedimiento</a>
+<p><a href="https://github.com/Dillanj2/Informe2/blob/main/C%C3%B3digo%20Fuente/Procedimiento_de_Laboratorio_2.pdf">Procedimiento</a>
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
